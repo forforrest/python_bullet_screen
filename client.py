@@ -10,7 +10,7 @@ def init_redis():
 
 
 if __name__ == '__main__':
-
+    pring(123)
     rc = init_redis()
 
     while True:
